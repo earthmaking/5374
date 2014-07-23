@@ -1,9 +1,5 @@
 label,sublabel,description,styles,bgcolor
-燃,,,img/moeru.png,#008842
-不燃,,,img/funen.png,#920783
-その他プラ,,,img/plastic_other.png,#f39800
-容器プラ,,,img/plastic_youki.png,#00a0e9
-粗大,,,img/sodai.png,#a8624f
-リ,,,img/recycle.png,#90c31f
-資源,,,img/sigen.png,#e4007f
-有害,,,img/yugai.png,#004ea2
+燃やさないごみ,,,img/moyasanai02.svg,#733b96
+資源,,,img/shigen02.svg,#77ae1f
+燃やすごみ,,,img/moyasu02.svg,#ea3b13
+びん,,,img/bin02.svg,#2dc7aa
