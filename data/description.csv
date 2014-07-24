@@ -1,5 +1,9 @@
-label,sublabel,description,styles,bgcolor
-燃やさないごみ,,,img/moyasanai02.svg,#733b96
-資源,,,img/shigen02.svg,#77ae1f
-燃やすごみ,,,img/moyasu02.svg,#ea3b13
-びん,,,img/bin02.svg,#2dc7aa
+﻿label,sublabel,description,styles,bgcolor
+燃,,,img/moyasanai02.svg,#008842
+不燃,,,img/moyasanai02.svg,#920783
+その他プラ,,,img/moyasanai02.svg,#f39800
+容器プラ,,,img/moyasanai02.svg,#00a0e9
+粗大,,,img/moyasanai02.svg,#a8624f
+リ,,,img/moyasanai02.svg,#90c31f
+資源,,,img/moyasanai02.svg,#e4007f
+有害,,,img/moyasanai02.svg,#004ea2
